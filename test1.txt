@@ -1,0 +1,5 @@
+coulor
+size
+font
+height 
+weight 
