@@ -3,3 +3,4 @@ size
 font
 height 
 weight 
+border
